@@ -1,0 +1,12 @@
+# >primeiro codigo #(cls) apga os dados a baixo caso tenha muitos
+
+# >uma função para imprimir alguma coisa da tela
+print('Hello world!')
+print('Seja bem vindo(a)')
+
+input('qual a linguagem de programação que vc está estudando?')
+
+'''
+isso é um comentario
+isso ainda é um comentario.
+'''
